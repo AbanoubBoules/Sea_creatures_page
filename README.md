@@ -1,5 +1,5 @@
 # Sea_creatures_page
-Simple task 404 error page with html CSS little JavaScript
+Simple task sea creatures responsive page using html css animation with css
 <h1>Screen shot</h1>
 <img src="Screenshot (478).png">
 </br>
